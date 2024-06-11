@@ -24,9 +24,14 @@
 </ul>
 
 <h2>Screenshots</h2>
-<p><img src="https://github.com/raviSaharan07/VideoCallApp/assets/147504098/98df6ecc-94ac-434e-a492-3544bbb28cbc" alt="Screenshot1" width="250" height="400"></p>
-<p><img src="screenshots/screenshot2.png" alt="Screenshot2"></p>
+<p><img src="https://github.com/raviSaharan07/VideoCallApp/assets/147504098/98df6ecc-94ac-434e-a492-3544bbb28cbc" alt="Screenshot1" width="250" height="400">
+<img src="https://github.com/raviSaharan07/VideoCallApp/assets/147504098/9f029747-0875-41ea-b915-75f2226f920c" alt="Screenshot2" width="250" height="400">
+<img src="https://github.com/raviSaharan07/VideoCallApp/assets/147504098/98bc5a70-5bba-48d4-b6fa-399f97c1c670" alt="Screenshot3" width="250" height="400"></p>
 
+<h2>Demo Video</h2>
+<video width="250" height="400" controls>
+  <source src="https://github.com/raviSaharan07/VideoCallApp/assets/147504098/0ea0e0cb-e3c9-477a-829c-c62baa91f57c">
+</video>
 
 <h2>Acknowledgements</h2>
 <ul>
