@@ -29,9 +29,8 @@
 <img src="https://github.com/raviSaharan07/VideoCallApp/assets/147504098/98bc5a70-5bba-48d4-b6fa-399f97c1c670" alt="Screenshot3" width="250" height="400"></p>
 
 <h2>Demo Video</h2>
-<video width="250" height="400" controls>
-  <source src="https://github.com/raviSaharan07/VideoCallApp/assets/147504098/0ea0e0cb-e3c9-477a-829c-c62baa91f57c" type="video/mp4">
-</video>
+
+https://github.com/raviSaharan07/VideoCallApp/assets/147504098/d208e310-6201-4654-b903-b54988225e66
 
 <h2>Acknowledgements</h2>
 <ul>
