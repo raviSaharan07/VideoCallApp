@@ -30,7 +30,7 @@
 
 <h2>Demo Video</h2>
 <video width="250" height="400" controls>
-  <source src="https://github.com/raviSaharan07/VideoCallApp/assets/147504098/0ea0e0cb-e3c9-477a-829c-c62baa91f57c">
+  <source src="https://github.com/raviSaharan07/VideoCallApp/assets/147504098/0ea0e0cb-e3c9-477a-829c-c62baa91f57c" type="video/mp4">
 </video>
 
 <h2>Acknowledgements</h2>
