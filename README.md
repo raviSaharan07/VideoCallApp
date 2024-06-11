@@ -24,7 +24,7 @@
 </ul>
 
 <h2>Screenshots</h2>
-<p><img src="C:\Users\91701\Desktop\videocall03.jpg" alt="Screenshot1"></p>
+<p><img src="https://github.com/raviSaharan07/VideoCallApp/assets/147504098/98df6ecc-94ac-434e-a492-3544bbb28cbc" alt="Screenshot1"></p>
 <p><img src="screenshots/screenshot2.png" alt="Screenshot2"></p>
 
 
