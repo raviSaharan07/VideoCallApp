@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "837736515826",
+    "project_id": "video-call-app-87584",
+    "firebase_url": "https://video-call-app-87584-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "storage_bucket": "video-call-app-87584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837736515826:android:8309ab13a28eaedcda686b",
+        "android_client_info": {
+          "package_name": "com.ravisaharan.videocall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQaoDKmiKF385mInQRM4ej1ZvbwYtZTLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
