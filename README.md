@@ -24,7 +24,7 @@
 </ul>
 
 <h2>Screenshots</h2>
-<p><img src="screenshots/screenshot1.png" alt="Screenshot1"></p>
+<p><img src="C:\Users\91701\Desktop\videocall03.jpg" alt="Screenshot1"></p>
 <p><img src="screenshots/screenshot2.png" alt="Screenshot2"></p>
 
 
