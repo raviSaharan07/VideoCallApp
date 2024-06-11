@@ -13,6 +13,8 @@
 <h2>About</h2>
 <p>This app was developed to provide a seamless and high-quality video calling experience on Android devices. Leveraging the powerful WebRTC library, the app ensures low-latency and clear video and audio communication. The additional features like audio muting, camera toggling, and camera switching enhance user convenience and flexibility during calls. Whether you're connecting with friends, family, or colleagues, this app provides the necessary tools for a reliable and enjoyable video calling experience.</p>
 
+<p>This Android Video Calling App leverages Firebase as the signaling system to manage the initial connection setup between users. Firebase's real-time database efficiently handles the exchange of signaling messages required to establish peer-to-peer connections via WebRTC. This integration ensures a smooth and reliable process for initiating video calls, allowing users to connect with minimal latency and maximum performance.</p>
+
 <h2>Features</h2>
 <ul>
     <li><strong>Video Calling</strong>: Make high-quality video calls.</li>
